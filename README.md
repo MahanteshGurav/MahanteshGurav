@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahanteshGurav
-- 👀 I’m interested in Android & Flutter Development
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning new things
 - 📫 reach me on mngurav92@gmail.com
 
